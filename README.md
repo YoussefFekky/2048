@@ -6,4 +6,4 @@ start([[0, 2, 0, 4],
 [0, 0, 8, 0],
 [0, 128, 0, 16]]).
 
-Finalized on 1/5/2019 by Youssef Hassan, Waleed Abdelhakim, Amr Anwar, Youssef El-Hefnawy, and Mustafa Magdi.
+Last modified on 1/5/2019 by Youssef Hassan, Waleed Abdelhakim, Amr Anwar, Youssef El-Hefnawy, and Mustafa Magdi.
